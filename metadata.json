@@ -1,0 +1,6 @@
+{
+  "name": "Super Pixel Bros",
+  "description": "Game platformer retro pixel art terinspirasi dari Mario Bros dengan mekanisme lompat dinamis, sistem power-up (Super Mushroom, Fire Flower, Star Invincible), musuh bervariasi, dan audio chiptune retro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
